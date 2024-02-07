@@ -45,7 +45,9 @@ Next, average of ride lenght per day of week and customer.
 From this chart we can conclude that casual customers tend to cycle longer than suscribers do and both have the most average at the weekend. 
 
 Analyzing the frecuency of rides per hour: 
+
 <img width="205" alt="image" src="https://github.com/Ceciimw/BikeShare---Chicago/assets/116229442/0a197312-4117-4fd7-83b3-44a60f0a802d">
+
 In this graph we can see that Subscribers ride their bikes more in the early morning and then in the afternoon, perhaps because they use this transport to go to work, and Customers prefer to ride from mid-morning onwards, perhaps they are tourists and prefer to make a trip by bike. 
 
 If we analize the rides per day of week: 
