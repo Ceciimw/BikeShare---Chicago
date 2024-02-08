@@ -34,21 +34,21 @@ For this step I prefered to use PowerBi to share the results of the analysis.
 
 First, I compare the proportion on Casual Members and Suscriber Members
 
-<img width="203" alt="image" src="https://github.com/Ceciimw/BikeShare---Chicago/assets/116229442/a0b35b05-c0e3-40c3-bbe5-4793d1173a2c">
+<img width="225" alt="image" src="https://github.com/Ceciimw/BikeShare---Chicago/assets/116229442/ac257cf3-0517-453f-9183-31b594f7883b">
 
 The Suscribers make 91% of the total while 9% are Casual customers. There we can conclude that the most of the bike's users are Suscribers.
 
 Next, average of ride lenght per day of week and customer.
 
-<img width="208" alt="image" src="https://github.com/Ceciimw/BikeShare---Chicago/assets/116229442/b00e6c97-c281-4783-9bdd-4228785ec974">
+<img width="230" alt="image" src="https://github.com/Ceciimw/BikeShare---Chicago/assets/116229442/c3c5d988-7e8b-497e-8818-d5b58db1a9e9">
 
 From this chart we can conclude that casual customers tend to cycle longer than suscribers do and both have the most average at the weekend. 
 
 Analyzing the frecuency of rides per hour: 
 
-<img width="205" alt="image" src="https://github.com/Ceciimw/BikeShare---Chicago/assets/116229442/0a197312-4117-4fd7-83b3-44a60f0a802d">
+<img width="225" alt="image" src="https://github.com/Ceciimw/BikeShare---Chicago/assets/116229442/5d3dea21-da08-4e49-884f-a39a1718a981">
 
-In this graph we can see that Subscribers ride their bikes more in the early morning and then in the afternoon, perhaps because they use this transport to go to work, and Customers prefer to ride from mid-morning onwards, perhaps they are tourists and prefer to make a trip by bike. 
+In this graph we can see that Subscribers ride their bikes more in the early morning and then in the afternoon, perhaps because they use this transport to go to work, and Casuals prefer to ride from mid-morning onwards, perhaps they are tourists and prefer to make a trip by bike. 
 
 If we analize the rides per day of week: 
 
@@ -58,13 +58,13 @@ We can conclude that the days of the week with more ride are from Monday to Frid
 
 Finally, if we analize the ride length per fay of week and customer: 
 
-<img width="204" alt="image" src="https://github.com/Ceciimw/BikeShare---Chicago/assets/116229442/33a37bd4-3320-429c-8745-257328c10cd1">
+<img width="227" alt="image" src="https://github.com/Ceciimw/BikeShare---Chicago/assets/116229442/a0f3acbc-a22c-484e-80bb-1fcc40c5b655">
 
-From this chart we can conclude that Customers prefer to ride more at the weekend insted of the Suscribers that prefere the day of the weeks. 
+From this chart we can conclude that Casuals prefer to ride more at the weekend insted of the Suscribers that prefere the day of the weeks. 
 
 At the end, I create a dashboard where you can see all this charts:
 
-<img width="713" alt="image" src="https://github.com/Ceciimw/BikeShare---Chicago/assets/116229442/4d7c1f10-c6f0-446d-b031-c193048cd3e4">
+<img width="715" alt="image" src="https://github.com/Ceciimw/BikeShare---Chicago/assets/116229442/5427d560-557e-4648-8d74-5c98b0b0b47b">
 
 Summary:
 Casual Customers prefer to ride at weekend, from mid-morning and for more time but not so frecuently. Whereas Suscribers prefer to ride during the week, for shorts periods early in the morning and in the evening more frecuently.
